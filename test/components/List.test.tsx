@@ -1,5 +1,5 @@
 import { render, screen } from "@testing-library/react"
-import List from "../../src/components/List"
+import List from "@/components/List"
 
 
 describe('List', () => {

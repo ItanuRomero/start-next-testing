@@ -1,6 +1,6 @@
 import { render, waitFor, waitForElementToBeRemoved } from "@testing-library/react";
 import userEvent from "@testing-library/user-event";
-import App from "../../src/pages/App";
+import App from "@/pages/App";
 
 
 // the most simple test you can create
